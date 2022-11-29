@@ -8,10 +8,8 @@
 1. Tensorflow
 
 # USAGE
-## inference
 
 
-## train 
 
 
 
