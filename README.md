@@ -5,6 +5,15 @@
 
 # REQUIREMENTS
 1. Tensorflow
+2. miscnn
+3. vedo
+4. vtk
+5. SimpleITK
+6. numpy
+7. math
+8. matplotlib
+9. pymeshlab
+10. nibabel
 
 # USAGE
 
