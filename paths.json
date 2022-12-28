@@ -1,0 +1,9 @@
+{
+  "read_ct":"F:/aadiplwmatikoula/meshes_kits21/case_00001/imaging.nii",
+  "read_labelmap": "F:/aadiplwmatikoula/1_final/case_00001/labelmap/aggregated_seg.nii.gz",
+  "classes_surfaces": "F:/aadiplwmatikoula/1_final/case_00001/class_surfaces/",
+  "merged_surfaces": "F:/aadiplwmatikoula/1_final/case_00001/merged_surfaces/merged_organs.stl",
+  "cropped_mesh": "C:/Users/Dell/PycharmProjects/pythonProject17/clipped.vtk",
+  "hole_filled_mesh": "F:/aadiplwmatikoula/1_final/case_00001/cutted_mesh/clipped.stl",
+  "final_repaired_stl": "F:/aadiplwmatikoula/1_final/case_00001/final_mesh/3d_printable_mesh.stl"
+}
