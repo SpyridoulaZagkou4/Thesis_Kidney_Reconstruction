@@ -17,8 +17,13 @@
 
 # USAGE
 
+First you have to download kits19 dataset from this repository: https://github.com/neheller/kits19 and then you have to add the path of the dataset to 
+```segmentation.py``` notebook to the data_path variable.
 
+For the 3d printing preprocessing you have to create a .json file that will contain the paths for all nifti & stl files that you create during the processes
+(reconstruction, merging, cropping, hole filling,..).
 
+For the process of operative assistance you have to run ```preoperative_planning.py``` by only adding the paths for stl files for kidney and tumor. To see the consecutive steps you can press space button.
 
 
 # RESULTS
