@@ -1,3 +1,7 @@
+# DESCRIPTION
+ The pipeline consists of a Deep Learning framework - UNet implementation- for Medical Image (CT) Segmentation, Surface 3D Reconstruction, Mesh Optimization, Operative Assistance and 3D printing.
+
+
 # PIPELINE 
 
 ![Screenshot 2022-12-16 112350](https://user-images.githubusercontent.com/81852029/208066328-5c4f0c2f-de5d-48a6-a76d-9c9ec8202602.png)
